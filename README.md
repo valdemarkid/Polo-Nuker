@@ -2,6 +2,29 @@
 ![GitHub Stars](https://img.shields.io/github/stars/valdemarkid/Polo-Nuker?color=6d00c1&logo=github)
 ![Top Language](https://img.shields.io/github/languages/top/valdemarkid/Polo-Nuker?color=6d00c1)
 
+<details>
+  <summary>Info</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#prerequisites">Prerequisites</a></li>
+          <ul>
+            <li><a href="#how-to-create-bot-account">How to create bot account</a></li>
+            <li><a href="#how-to-enable-intents">How to enable intents</a></li>
+          </ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href="#Disclaimer">Disclaimer</a></li>
+    <li><a href="#usage">Usage</a></li>
+    <li><a href="#license">License</a></li>
+    <li><a href="#contact">Contact</a></li>
+  </ol>
+</details>
 
 ![w](https://github.com/user-attachments/assets/1d245cd6-e5ad-4e0a-8c2a-2cbbf65aa334)
 ![Skærmbillede 2024-08-30 221236](https://github.com/user-attachments/assets/2383f64c-389b-4d07-9537-e429b673f9a3)
