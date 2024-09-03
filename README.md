@@ -5,20 +5,14 @@
 <details>
   <summary>Info</summary>
   <ol>
-    <li>
-    </li>
-    <li>
-      <ul>
-          <ul>
-          </ul>
-      </ul>
-    </li>
     <li><a href="#Features">Features</a></li>
     <li><a href="#Tip">Tip</a></li>
+    <li><a href="#Images">Images</a></li>
     <li><a href="#Disclaimer">Disclaimer</a></li>
   </ol>
 </details>
 
+# Images
 ![w](https://github.com/user-attachments/assets/1d245cd6-e5ad-4e0a-8c2a-2cbbf65aa334)
 ![Skærmbillede 2024-08-30 221236](https://github.com/user-attachments/assets/2383f64c-389b-4d07-9537-e429b673f9a3)
 
